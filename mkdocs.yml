@@ -1,0 +1,8 @@
+site_name: "ms-persons-3"
+site_description: "Microservico de pessoas"
+
+nav:
+  - Introduction: index.md
+
+plugins:
+  - techdocs-core
